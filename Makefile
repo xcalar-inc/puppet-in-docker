@@ -7,3 +7,4 @@ all:
 
 rake:
 	export PATH=/opt/puppetlabs/puppet/bin:$(PATH) && bundle exec rake
+
